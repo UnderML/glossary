@@ -4,6 +4,6 @@ title: bigram
 prev: state
 ---
 
-An N-gram in which N=2.
+Một chuỗi N từ có thứ tự trong đó N = 2.
 
 ## Code
