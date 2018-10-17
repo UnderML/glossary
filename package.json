@@ -1,0 +1,22 @@
+{
+  "name": "glossary",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "docz:dev": "docz dev",
+    "docz:build": "docz build"
+  },
+  "devDependencies": {
+    "buble": "0.19.4",
+    "docz": "^0.12.5",
+    "docz-plugin-css": "^0.11.0",
+    "rehype-katex": "^1.1.1",
+    "rehype-stringify": "^4.0.0",
+    "remark": "^9.0.0",
+    "remark-html": "^8.0.0",
+    "remark-html-katex": "^1.1.1",
+    "remark-math": "^1.0.4",
+    "remark-rehype": "^3.0.1"
+  }
+}
