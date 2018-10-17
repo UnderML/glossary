@@ -14,6 +14,6 @@ export default {
       cssmodules: true,
     }),
   ],
-  hashRouter: true,
+  hashRouter: false,
   base: `/${libName}/`,
 }
