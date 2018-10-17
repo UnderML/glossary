@@ -1,0 +1,3 @@
+# Bayesian neural network
+
+Một mạng nơron xác suất có tính không chắc chắn về trọng lượng và đầu ra. Mô hình hồi quy mạng nơron chuẩn thường dự đoán giá trị vô hướng; ví dụ, một mô hình dự đoán giá nhà là 853.000. Ngược lại, một mạng thần kinh Bayesian dự đoán sự phân bố các giá trị; ví dụ, một mô hình dự đoán giá nhà là 853.000 với độ lệch chuẩn là 67.200. Một mạng thần kinh Bayesian dựa trên Định lý Bayes để tính toán sự không chắc chắn về trọng số và dự đoán. Một mạng thần kinh Bayesian có thể hữu ích khi điều quan trọng là định lượng sự không chắc chắn, chẳng hạn như trong các mô hình liên quan đến dược phẩm. Mạng thần kinh Bayesian cũng có thể giúp ngăn chặn việc đánh bắt quá mức.
