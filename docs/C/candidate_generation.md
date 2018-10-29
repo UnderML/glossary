@@ -10,6 +10,7 @@ The initial set of recommendations chosen by a recommendation system. For exampl
 
 Cái bộ đề xuất ban đầu được đề xuất bởi hệ thống. Ví dụ hiệu sách có 100, 000 tiêu đề.
 Giai đoạn tạo ứng viên, tạo ra một danh sách nhỏ hơn nhiều set phù hợp cho một người dùng cụ thể,
+Nhưng thậm chí 500 cuốn sách cũng là quá nhiều để giới thiệu cho người dùng. Các giai đoạn tiếp theo, tốn kém hơn của hệ thống đề xuất (chẳng hạn như chấm điểm và xếp hạng lại) sẽ giảm 500 xuống một nhóm nhỏ hơn, hữu ích hơn nhiều đề xuất
 
 
 
